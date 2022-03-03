@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Alessandro</h1>
 ### 📚 Italian Developer and Student
 
-### 👀 Profile Views:
-<img src="https://komarev.com/ghpvc/?username=ale-006&label=Profile%20views&color=0e75b6&style=flat"/>
-
 - 🌱 I’m currently learning Web Development and C++
 
 ### 📙 Languages:
@@ -18,4 +15,4 @@
 
 ### 📈 Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact"/><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-006&show_icons=true&locale=en"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-006&hide=stars,prs,issues&show_icons=true&theme=gruvbox&border_radius=20"/>
