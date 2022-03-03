@@ -28,5 +28,5 @@
 
 ### 📈 Stats:
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=ale-006&hide=stars,prs,issues&show_icons=true&border_radius=20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20">
+<img src="https://github-readme-stats.vercel.app/api?username=ale-006&hide=stars,prs,issues&show_icons=true&border_radius=20" height="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20">
 </p>
