@@ -5,7 +5,7 @@
 
 ### 📙 Languages, Tools and Frameworks:
 <p>
-    <!-- html --> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML">
+    <!-- html --> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="40">
     <!-- css --> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS">
     <!-- js --> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript">
     <!-- nodejs --> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
