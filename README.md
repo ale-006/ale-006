@@ -5,7 +5,7 @@
 
 ### 📙 Languages:
 <p>
-    <!-- html --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="40" height="40">
+    <!-- html --> <img style="filter: drop-shadow(5px 5px 5px white);" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="40" height="40">
     <!-- css --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"width="40" height="40">
     <!-- js --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"width="40" height="40">
     <!-- nodejs --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"width="40" height="40">
@@ -16,10 +16,3 @@
 ### 📈 Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20"/><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-006&hide=stars,prs,issues&show_icons=true&border_radius=20"/>
-
-<style>
-    img {
-        -webkit-filter: drop-shadow(5px 5px 5px white);
-        filter: drop-shadow(5px 5px 5px white);
-    }
-</style>
