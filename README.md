@@ -27,5 +27,6 @@
     <!-- ubuntu --> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="40">
 
 ### 📈 Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20"/><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-006&hide=stars,prs,issues&show_icons=true&border_radius=20"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=ale-006&hide=stars,prs,issues&show_icons=true&border_radius=20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20">
+</p>
