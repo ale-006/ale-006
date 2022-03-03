@@ -32,6 +32,9 @@
 <p>
     <!-- vscode --> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40">
     <!-- atom --> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" height="40">
+    <!-- git --> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="40">
+    <!-- nordvpn --> <img src="https://nordvpn.com/wp-content/uploads/2020/07/favicon-196x196-1.png" alt="NordVPN" height="40">
+    <!-- opera --> <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" alt="Opera" height="40">
 
 ### 📈 Languages Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20">
