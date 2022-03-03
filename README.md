@@ -26,6 +26,12 @@
     <!-- windows --> <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" height="40">
     <!-- android --> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" height="40">
     <!-- ubuntu --> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="40">
+</p>
+
+### 💻 Software:
+<p>
+    <!-- vscode --> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40">
+    <!-- atom --> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" height="40">
 
 ### 📈 Languages Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20">
