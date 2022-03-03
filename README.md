@@ -14,5 +14,12 @@
 </p>
 
 ### 📈 Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20"/><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-006&hide=stars,prs,issues&show_icons=true&border_radius=20"/>
+
+<style>
+    img {
+        -webkit-filter: drop-shadow(5px 5px 5px white);
+        filter: drop-shadow(5px 5px 5px white);
+    }
+</style>
