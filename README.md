@@ -1,20 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">Italian Developer and Student 📚.</h3>
+# 👋 Hi, I'm Alessandro</h1>
+### 📚 Italian Developer and Student
 
-<br>
-
-<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=ale-006&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
+### 👀 Profile Views:
+<img src="https://komarev.com/ghpvc/?username=ale-006&label=Profile%20views&color=0e75b6&style=flat"/>
 
 - 🌱 I’m currently learning Web Development and C++
 
-<br>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
+### 📙 Languages:
+<p>
     <!-- html --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="40" height="40">
     <!-- css --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"width="40" height="40">
     <!-- js --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"width="40" height="40">
@@ -23,14 +16,6 @@
     <!-- c++ --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"width="40" height="40">
 </p>
 
-<br>
-
-<h3>Statistical Languages Use:</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-006&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
+### 📈 Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact"/><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-006&show_icons=true&locale=en"/>
