@@ -26,5 +26,5 @@
     <!-- android --> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" height="40">
     <!-- ubuntu --> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="40">
 
-### 📈 Stats:
+### 📈 Languages Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale-006&show_icons=true&locale=en&layout=compact&radius=20">
