@@ -4,6 +4,8 @@
 
 ### 🌐 Website: [ale006.cf](https://ale006.cf)
 
+### 📧 Email: [ale006@programmer.net](mailto:ale006@programmer.net)
+
 ### 📙 Languages, Tools and Frameworks:
 <p>
     <!-- html --> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="40">
