@@ -2,7 +2,7 @@
 ### 📚 Italian Developer and Student
 - 🌱 I’m currently learning Web Development and C++
 
-### 🌐 Website: [ale006.cf](https://ale006.cf)
+### 🌐 Website: [ale-006.github.io](https://ale-006.github.io)
 
 ### 📧 Email: [ale006@programmer.net](mailto:ale006@programmer.net)
 
