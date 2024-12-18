@@ -1,10 +1,10 @@
 # 👋 Hi, I'm [Alessandro](https://ale006.cf)</h1>
 ### 📚 Italian Developer and Student
-- 🌱 I’m currently learning Web Development and C++
+- 🌱 I’m currently studying Graphics and Communication
 
 ### 🌐 Website: [ale-006.cf](https://ale-006.cf)
 
-### 📧 Email: [ale006@programmer.net](mailto:ale006@programmer.net)
+### 📧 Email: [baioale.06@gmail.com](mailto:baioale.06@gmail.com)
 
 ### 📙 Languages, Tools and Frameworks:
 <p>
