@@ -13,8 +13,6 @@
     <!-- js --> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
     <!-- nodejs --> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="40">
     <!-- go --> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="40">
-    <!-- r --> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" height="40">
-    <!-- c++ --> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40">
     <!-- npm --> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="40">
     <!-- mongodb --> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40">
     <!-- heroku --> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" height="40">
@@ -27,7 +25,6 @@
 <p>
     <!-- windows --> <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" height="40">
     <!-- android --> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" height="40">
-    <!-- ubuntu --> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="40">
 </p>
 
 ### 💻 Software:
